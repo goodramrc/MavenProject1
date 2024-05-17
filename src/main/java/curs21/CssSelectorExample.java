@@ -76,6 +76,8 @@ public class CssSelectorExample extends BaseTest {
         System.out.println(book4.getText());
 
 
+//test pentru git
+
 
     }
 
